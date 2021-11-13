@@ -63,15 +63,6 @@ THEN I am taken to the homepage
 > WHEN I am idle on the site for more than a set time
 > THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments    
 
-## Usage
-1. Go to the deployed app at [https://the-tech-blog-24601.herokuapp.com/](https://the-tech-blog-24601.herokuapp.com/).
-2. Click on posts to view comments.
-3. Click on "Login" to login or signup.
-4. Click on "Dashboard" to view your post dashboard.
-5. From your dashboard, click on a post to update it or delete it.
-6. From the homepage while logged in, click on a post to view and add comments.
-7. Click on "Logout" to logout.
-
 ## Passwords
 This application hashes passwords to maintain security through bcrypt.
 
